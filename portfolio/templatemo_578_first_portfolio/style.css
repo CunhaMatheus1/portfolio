@@ -1,0 +1,32 @@
+h2 {
+	text-align: center;
+}
+
+.mb-0 {
+	text-align: center;
+}
+
+.profile-small-tittle {
+	text-align: center;
+}
+
+.clients-image {
+	display: block;
+	max-width: 200px;
+	padding-top: 50px;
+	margin: auto;
+	transition: all ease 0.2s;
+}
+
+.about-image {
+	height: 400px;
+}
+
+.projects-title {
+	text-align: center;
+}
+
+.popup-image {
+	max-width: 150px;
+	height: 00px;
+}
